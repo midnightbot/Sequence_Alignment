@@ -1,0 +1,1 @@
+python3 space_efficient.py input.txt

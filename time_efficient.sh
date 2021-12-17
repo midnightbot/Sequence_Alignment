@@ -1,0 +1,1 @@
+python3 time_efficient.py input.txt
